@@ -1,4 +1,3 @@
-
 # Ex.No:5 Develop a program to create a simple calculator using Android Studio.
 
 
